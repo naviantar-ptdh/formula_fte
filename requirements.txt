@@ -5,3 +5,8 @@ db-dtypes
 matplotlib
 st-gsheets-connection
 python-pptx
+numpy
+scipy
+scikit-learn
+plotly
+statsmodels
