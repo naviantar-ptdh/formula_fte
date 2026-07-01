@@ -1,0 +1,7 @@
+streamlit
+pandas
+google-cloud-bigquery
+db-dtypes
+matplotlib
+st-gsheets-connection
+python-pptx
